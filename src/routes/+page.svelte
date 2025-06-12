@@ -3,16 +3,15 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>idk what to put here</title>
+	<meta name="description" content="a thing which i am changing" />
 </svelte:head>
 
 <section>
 	<h1>
 		<span class="welcome">
 			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
+				<img src="surprised.jpg" alt="a surprisd guy" />
 			</picture>
 		</span>
 
