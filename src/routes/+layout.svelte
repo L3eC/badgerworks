@@ -23,7 +23,8 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p> guys what do i put here (it's working tho so that's cool) click this link fr <a href="https://www.gutenberg.org/files/2701/2701-h/2701-h.htm">yup this link</p>
+	<p> contact information: there is no contact information i just put this here because it's at the bottom of every webpage ever </p>
 </footer>
 
 <style>
